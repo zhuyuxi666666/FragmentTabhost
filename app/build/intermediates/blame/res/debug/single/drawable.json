@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_more_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable\\tab_more_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_square_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable\\tab_square_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable\\tab_home_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_message_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable\\tab_message_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selfinfo_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable\\tab_selfinfo_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_background.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable\\selector_tab_background.xml"
+    }
+]

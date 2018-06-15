@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tabhost_bg.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\bg_tabhost_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_square_sel.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_square_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_home_nor.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_home_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_meassage_nor.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_meassage_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_btn_bg.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_home_sel.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_home_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_selfinfo_sel.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_selfinfo_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_meassage_sel.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_meassage_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_selfinfo_nor.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_selfinfo_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_more_sel.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_more_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_square_nor.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_square_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_more_nor.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\icon_more_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

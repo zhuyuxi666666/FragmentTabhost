@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\layout\\fragment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment5.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\layout\\fragment5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment4.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\layout\\fragment4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\layout\\tab_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\TestFragmentTabHost-master\\FragmentTabhost\\app\\src\\main\\res\\layout\\fragment3.xml"
+    }
+]
